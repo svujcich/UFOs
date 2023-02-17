@@ -20,3 +20,5 @@ If the user wants to clear a field, they can simply delete the filter and hit en
 
 ## Summary
 Although this page is a useful resource for filtering data, it does come with the drawback of needing specific input; The format of the input must match the data in the table. If a user wanted to search for sightings in Colorado for example, they would need to enter "co" verbatim; "Colorado" or "CO" would not return any results because the search would not match the key in the data set. This is an area of the program that could use improvement. Using regular expressions to identify patterns that do not match the input format, it might be possible to display a pop up to alert the user that their entry does not match the form required for the filter. Another area that could bennefit from improvement would be to lock certain elements of the webpage in place. By locking the search filters to the side of the page, and the image on top, the web page would look cleaner and provide a better end user experience.
+
+Check out a [demo](https://youtu.be/4MDsTABcMLw) of the web page in action.
